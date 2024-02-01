@@ -1,6 +1,6 @@
 # my-postgres-temporal-tables
 
-This repository contains a Dockerfile for building a PostgreSQL image with the `temporal_tables` extension installed. The image is based on `postgres:16-alpine`.
+This repository contains a Dockerfile for building a PostgreSQL image with the `temporal_tables` extension installed. The image is based on `postgres:16`.
 
 ## Building the Docker Image
 
